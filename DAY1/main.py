@@ -12,3 +12,5 @@
 #3 check the largest of 3 number
 #4 Print week number if you provide weekname as input
 
+
+#Swaping Numbers

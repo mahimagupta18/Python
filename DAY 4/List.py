@@ -112,3 +112,13 @@ list1 = ["a" ,"b" ,"c"]
 list2 = [1 ,2 ,3 ,4]
 list1.extend(list2)
 print(list1)   #['a', 'b', 'c', 1, 2, 3, 4]
+
+#Example : comparasion list
+# list1 = ["a" ,"b" ,"c"]
+list1 = [1 ,2 ,3 ,4]
+list2 = [1 ,2 ,3 ,4]
+
+if mylist1 == mylist2:
+    print("Equal")
+else:
+    print("Not Equal")

@@ -27,5 +27,8 @@
 #
 #print 5,10,15,20......100
 
-for i in range(5,101,5):
+for i in range(5,50,5):
     print(i)
+
+
+
